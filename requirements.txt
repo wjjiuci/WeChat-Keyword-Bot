@@ -1,0 +1,1 @@
+wxauto @ https://github.com/cluic/wxauto/archive/refs/tags/v3.9.2.1.zip

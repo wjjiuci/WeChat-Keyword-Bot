@@ -1,0 +1,4 @@
+config.py
+messages.db*
+__pycache__/
+*.pyc
